@@ -3182,8 +3182,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <via x="69.1515" y="54.102" extent="1-16" drill="0.3048"/>
 <via x="71.374" y="52.07" extent="1-16" drill="0.3048"/>
 <wire x1="71.374" y1="52.07" x2="71.2848125" y2="53.2800375" width="0.1778" layer="16"/>
-<wire x1="69.1515" y1="54.102" x2="69.977" y2="54.1655" width="0.1778" layer="16"/>
-<wire x1="69.977" y1="54.1655" x2="71.2848125" y2="53.2800375" width="0.1778" layer="16"/>
+<wire x1="69.1515" y1="54.102" x2="69.977" y2="54.1655" width="0.508" layer="16"/>
+<wire x1="69.977" y1="54.1655" x2="71.2848125" y2="53.2800375" width="0.508" layer="16"/>
 <wire x1="71.12" y1="66.421" x2="72.0725" y2="66.1035" width="0.508" layer="16"/>
 <wire x1="72.0725" y1="66.1035" x2="73.346040625" y2="66.498271875" width="0.508" layer="16"/>
 </signal>
@@ -3628,7 +3628,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="83.1215" y1="52.578" x2="84.963" y2="51.7525" width="0.1524" layer="16"/>
 <wire x1="87.16" y1="60.745" x2="86.6775" y2="60.1345" width="0.2032" layer="1"/>
 <wire x1="86.6775" y1="60.1345" x2="86.4235" y2="59.944" width="0.2032" layer="1"/>
-<wire x1="86.899565625" y1="66.662490625" x2="87.1855" y2="67.691" width="0.2032" layer="16"/>
+<wire x1="86.899565625" y1="66.662490625" x2="87.1855" y2="67.691" width="0.508" layer="16"/>
 <via x="87.1855" y="67.691" extent="1-16" drill="0.3048"/>
 <via x="84.709" y="48.8315" extent="1-16" drill="0.3048"/>
 <via x="81.534" y="49.4665" extent="1-16" drill="0.3048"/>
